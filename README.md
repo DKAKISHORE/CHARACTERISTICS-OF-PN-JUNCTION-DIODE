@@ -1,5 +1,6 @@
 #NAME:Kishore S
 #REG NO:212224080026
+
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
